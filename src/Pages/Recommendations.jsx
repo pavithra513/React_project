@@ -108,10 +108,10 @@ function Recommendations() {
 
                 </div>
 
-                {/* Product Details */}
+              
                 <div className="product-details">
 
-                  {/* Price */}
+                 
                   <div className="price-section">
 
                     <span className="discount-price">
